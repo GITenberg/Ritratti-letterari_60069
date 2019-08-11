@@ -1,5 +1,8 @@
 _repo: Ritratti-letterari_60069
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 60069-h/images/cover.jpg
 creator:
   author:
     agent_name: De Amicis, Edmondo
@@ -15,6 +18,8 @@ creator:
     - https://en.wikipedia.org/wiki/Edmondo_De_Amicis
     - https://it.wikipedia.org/wiki/Edmondo_De_Amicis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60069#Ritratti-letterari
 gutenberg_issued: '2019-08-06'
 gutenberg_type: Text
 identifiers:
