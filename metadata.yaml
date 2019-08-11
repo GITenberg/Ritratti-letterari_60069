@@ -1,0 +1,39 @@
+_repo: Ritratti-letterari_60069
+_version: 0.0.1
+creator:
+  author:
+    agent_name: De Amicis, Edmondo
+    aliases:
+    - Amicis, Edmondo de
+    - Amichis, Edmondo de
+    - Amicis, Edmundo de
+    birthdate: 1846
+    deathdate: 1908
+    gutenberg_agent_id: '7650'
+    url: http://www.gutenberg.org/2009/agents/7650
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Edmondo_De_Amicis
+    - https://it.wikipedia.org/wiki/Edmondo_De_Amicis
+description: ''
+gutenberg_issued: '2019-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60069'
+  lccn: '32015052'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Déroulède, Paul, 1846-1914'
+- !lcsh 'Daudet, Alphonse, 1840-1897'
+- !lcc 'PQ'
+- !lcsh 'Dumas, Alexandre, 1824-1895'
+- !lcsh 'Coquelin, Constant, 1841-1909'
+- !lcsh 'Augier, Émile, 1820-1889'
+- !lcsh 'Zola, Émile, 1840-1902'
+- GITenberg
+tableOfContents: Alfonso Daudet -- Emilio Zola polemista -- Emilio Augier e Alessandro
+  Dumas -- L'attore Coquelin -- Paolo Déroulède.
+title: Ritratti letterari
+url: http://www.gutenberg.org/ebooks/60069
